@@ -8,10 +8,10 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-image: url("/images/Network.svg");
-  background-size: 50%;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: right;
+  background-position: center;
   font-size: 16px;
 
   @include breakpoint($medium) {
