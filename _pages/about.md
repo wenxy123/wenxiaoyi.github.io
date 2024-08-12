@@ -9,9 +9,11 @@ redirect_from:
 
 Biography
 ======
-Hi, my name is Xiaoyi Wen and I'm currently the final year PhD student in the Institute of Statistics and Big Data at the Renmin University of China under the supervised by Professor Liping Zhu. I had the opportunity to be a visiting student at London School of Economics and Political Science under the mentorship of Professor Zoltán Szabó. Before that, I reviece the Master's degree in the University of Hong Kong and my Bachelor's degree in Shanghai University of International Business and Economics.
+Hi, my name is Xiaoyi Wen, and I’m currently a final-year PhD student at the Institute of Statistics and Big Data, Renmin University of China, under the supervision of Professor Liping Zhu. I had the opportunity to be a visiting student at the London School of Economics and Political Science, where I worked under the mentorship of Professor Zoltán Szabó. Prior to my PhD, I received a Master’s degree from the University of Hong Kong and a Bachelor’s degree from Shanghai University of International Business and Economics.
 
 Research Interest
 ======
-My research interests are as follows
+- Hypothesis testing of random graph
+- Spectral analysis
+- Kernel method
 
