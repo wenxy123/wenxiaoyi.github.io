@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "Beijing, China"
-title                    : "Xiaoyi's Homepage"
+title                    : "Xiaoyi Wen's Homepage"
 title_separator          : "-"
-name                     : &name "Xiaoyi Wen"
+name                     : &name "Xiaoyi Wen (文晓艺)"
 description              : &description "personal description"
 url                      : https://wenxy123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
