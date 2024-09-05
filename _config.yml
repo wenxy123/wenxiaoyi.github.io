@@ -10,7 +10,7 @@
 locale                   : "Beijing, China"
 title                    : "Xiaoyi Wen's Homepage"
 title_separator          : "-"
-name                     : &name "Xiaoyi Wen (文晓艺)"
+name                     : &name "Xiaoyi Wen"
 description              : &description "personal description"
 url                      : https://wenxy123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "wenxy123/wenxy123.github.io"
 author:
   # Biographic information
   avatar           : "my_pic.png"
-  name             : "Xiaoyi Wen"
+  name             : "Xiaoyi Wen (文晓艺)"
   pronouns         : # example: "she/her"  
   location         : "Beijing, China"
   employer         : "Renmin University of China"
